@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0bff36de-9159-4471-ac97-de1b3c0e1c46",
+            "Value": {
+                "id": "95d6d733-2ce4-4165-bfae-66ff60a2fbd1",
+                "resourcePath": "views\\0bff36de-9159-4471-ac97-de1b3c0e1c46.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0eac1a28-8e2a-4bcf-87f4-781adcd513ab",
             "Value": {
                 "id": "133dce18-bf7f-48b1-8641-c96264616774",
@@ -60,6 +68,22 @@
                 "id": "79fb9422-f87b-46cd-b7bc-27cccd9a0567",
                 "resourcePath": "views\\0f9a30b8-5cce-4517-8490-998b4f28434e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "16674d6b-f19e-4b22-92ba-d8e99b2009ff",
+            "Value": {
+                "id": "596b00af-702d-460f-a744-dbf36502d1d8",
+                "resourcePath": "sprites\\spr_planetPlant\\spr_planetPlant.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19ddbfc0-6150-41b2-9371-ce120111a0ad",
+            "Value": {
+                "id": "22ed8b17-3c28-44f6-8bdf-4ee2b035a871",
+                "resourcePath": "tilesets\\tls_planet1\\tls_planet1.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -87,6 +111,14 @@
             }
         },
         {
+            "Key": "294d9151-085d-4a4f-9d3c-b48c608dd7b3",
+            "Value": {
+                "id": "62652c63-59e2-43cd-95e4-e864a3e7fc0c",
+                "resourcePath": "sprites\\spr_planetBush\\spr_planetBush.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "348ec5e0-b1bb-404b-9efa-06cd07992ab7",
             "Value": {
                 "id": "08d629f6-7e2a-4ecc-89de-6fe6403ad9f4",
@@ -95,11 +127,27 @@
             }
         },
         {
+            "Key": "3675c844-3c24-4b83-a65c-dd201bcaadb9",
+            "Value": {
+                "id": "78fef5a7-117a-457d-bfd7-d5d5e8aaf40e",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3df301ab-1ee5-4d98-8818-e9981abb42ce",
             "Value": {
                 "id": "d2d9b361-48fd-42ff-ba45-96c91cf62048",
                 "resourcePath": "views\\3df301ab-1ee5-4d98-8818-e9981abb42ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3e9d78d9-eba9-4250-af1f-ef30a7d9a2a0",
+            "Value": {
+                "id": "df4714fc-981a-4504-a17e-08ae2b2eb1bb",
+                "resourcePath": "objects\\obj_planetPlant\\obj_planetPlant.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -119,6 +167,14 @@
             }
         },
         {
+            "Key": "4e26fbd6-df60-4b7a-8ea8-0991ebbf8d56",
+            "Value": {
+                "id": "24533a62-e4e0-4de9-80e5-cc898534fff7",
+                "resourcePath": "sprites\\spr_planetStuff\\spr_planetStuff.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6764271d-d184-4def-8011-75c723b4a677",
             "Value": {
                 "id": "89fb8926-2d4f-412d-b1b2-9884d76f248c",
@@ -131,6 +187,14 @@
             "Value": {
                 "id": "f2b1e3ab-4036-4c3b-b4c5-966588c5e41e",
                 "resourcePath": "views\\76805d63-1249-48c7-9f69-9d2e1dd63951.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92658d2e-ceee-4000-a721-c2f326647958",
+            "Value": {
+                "id": "6cb06cd8-40b8-4b53-b345-661c3f4f1533",
+                "resourcePath": "views\\92658d2e-ceee-4000-a721-c2f326647958.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -148,6 +212,14 @@
                 "id": "be5b6ab8-770c-4630-a98e-aec7f3af5e4b",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a7c491c6-ba39-4c37-b722-a942cf5690c8",
+            "Value": {
+                "id": "3c213d4f-27c1-4de5-b009-7cba780696cc",
+                "resourcePath": "objects\\obj_planetBush\\obj_planetBush.yy",
+                "resourceType": "GMObject"
             }
         },
         {
