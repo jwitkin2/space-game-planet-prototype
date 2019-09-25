@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "5cd68178-8626-41e4-8ad5-224f107b33be",
+            "Value": {
+                "id": "40ab8769-3db7-414a-b4d3-e2af1aaa869f",
+                "resourcePath": "sprites\\spr_planetSky\\spr_planetSky.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6764271d-d184-4def-8011-75c723b4a677",
             "Value": {
                 "id": "89fb8926-2d4f-412d-b1b2-9884d76f248c",
